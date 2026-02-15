@@ -15,6 +15,17 @@
         ]
     },
     {
+        "name": "123hdd",
+        "url": "https://one-two-three-hdd.raiselysite.com/",
+        "difficulty": "easy",
+        "notes": "Profile ⮕ settings ⮕ delete account ⮕ confirm",
+        "notes_de": "Profil ⮕ Einstellungen ⮕ Account löschen ⮕ Bestätigen",
+        "notes_it": "Vai su 'Profilo', 'Impostazioni', clicca 'Elimina account' e conferma.",
+        "notes_ru": "Профиль ⮕ настройки ⮕ удалить аккаунт ⮕ подтвердить.",
+        "notes_tr": "\"Profil\" \"Ayarlar\" \"Hesabı Sil\" \"Onayla\"",
+        "domains": ["one-two-three-hdd.raiselysite.com"]
+    },
+    {
         "name": "123RF",
         "url": "https://www.123rf.com/support/support-answer.php?id=8817",
         "difficulty": "hard",
@@ -117,6 +128,13 @@
         "email_subject": "Delete my account",
         "email_body": "Please delete my account permanently because I don’t want to use the 1xBet services any further. Thank you. Username: XXX Email: XXX",
         "domains": ["1xbet.com"]
+    },
+    {
+        "name": "24hd",
+        "url": "https://24hd.raiselysite.com/",
+        "difficulty": "easy",
+        "notes": "In your profile, there is a 'Delete Account' link. Clicking this will permanently delete all personal information from your user profile and deactivate your account. Your username cannot be used again by you or anyone else",
+        "domains": ["24hd.raiselysite.com"]
     },
     {
         "name": "280daily",
@@ -8184,6 +8202,14 @@
         "domains": ["glitch.com"]
     },
     {
+        "name": "Globo",
+        "url": "https://minhaconta-v2.globo.com/#/excluir-conta",
+        "difficulty": "easy",
+        "notes": "Visit the linked page, click on the delete account button and provide a reason.",
+        "notes_pt-BR": "Visite a página, clique em 'Excluir Conta Globo' e escolha a razão da exclusão.",
+        "domains": ["globo.com"]
+    },
+    {
         "name": "Glorious Forums",
         "url": "https://gloriousforum.com",
         "difficulty": "easy",
@@ -9293,6 +9319,13 @@
         "difficulty": "easy",
         "notes": "Enter Hetzner account management, find user deletion seciton and click Delete User Account.",
         "domains": ["hetzner.com"]
+    },
+    {
+        "name": "hi ai",
+        "url": "https://hiaireply.com",
+        "difficulty": "easy",
+        "notes": "Log in to your account, go to Settings ⮕ Security ⮕ scroll to bottom and click 'Delete Account' button.",
+        "domains": ["hiaireply.com"]
     },
     {
         "name": "Hi-Rez Studios",
@@ -18158,6 +18191,13 @@
         "domains": ["sentry.io"]
     },
     {
+        "name": "Serie day",
+        "url": "https://series-day.raiselysite.com/",
+        "difficulty": "easy",
+        "notes": "In your profile preferences, click in 'Delete Account' then confirm.",
+        "domains": ["series-day.raiselysite.com"]
+    },
+    {
         "name": "Serpstat",
         "url": "https://serpstat.com/users/profile/",
         "difficulty": "medium",
@@ -21278,6 +21318,13 @@
         "domains": ["https://tvtropes.org/"]
     },
     {
+        "name": "TVMon",
+        "url": "https://tvmonkorea.raiselysite.com/",
+        "difficulty": "easy",
+        "notes": "In your profile, there is a 'Delete Account' link. Clicking this will permanently delete all personal information from your user profile and deactivate your account. Your username cannot be used again by you or anyone else",
+        "domains": ["tvmonkorea.raiselysite.com"]
+    },
+    {
         "name": "Tweek",
         "url": "https://tweek.so/calendar/help",
         "difficulty": "easy",
@@ -21510,6 +21557,14 @@
             "nonsa.pl",
             "nonciclopedia.org"
         ]
+    },
+    {
+        "name": "The undertaker 2",
+        "url": "https://theundertaker2.raiselysite.com/",
+        "difficulty": "hard",
+        "notes": "Account deletion requires contacting Customer Support.",
+        "email": "admin@raiselysite.com",
+        "domains": ["theundertaker2.raiselysite.com"]
     },
     {
         "name": "Unfuddle Ten",
