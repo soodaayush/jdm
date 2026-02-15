@@ -21576,6 +21576,13 @@
         "domains": ["unfuddle.io"]
     },
     {
+        "name": "Unibuddy",
+        "url": "https://help.unibuddy.co/en/articles/6277993-how-do-i-edit-delete-my-unibuddy-profile",
+        "difficulty": "easy",
+        "notes": "Go into your profile settings, and click on 'Delete Account'.",
+        "domains": ["unibuddy.com"]
+    },
+    {
         "name": "Unidays",
         "url": "https://www.myunidays.com/US/en-US/account/settings/delete",
         "difficulty": "easy",
